@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Remy
+title:            George Georgarakis
 tagline:          ''
 description:      ''
-url:              https://remyie.github.io/remy/
-baseurl:          https://remyie.github.io/remy/
+url:              https://georgegeorgarakis.github.io/
+baseurl:          https://georgegeorgarakis.github.io/
 
 author:
   name:           
