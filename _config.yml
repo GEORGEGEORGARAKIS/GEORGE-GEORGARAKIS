@@ -10,8 +10,8 @@ relative_permalinks: false
 title:            George Georgarakis
 tagline:          ''
 description:      ''
-url:              https://georgegeorgarakis.github.io/
-baseurl:          https://georgegeorgarakis.github.io/
+url:              https://george-georgarakis.github.io/
+baseurl:          https://george-georgarakis.github.io/
 
 author:
   name:           
